@@ -1,6 +1,6 @@
 # Hi there, I'm Richard Junior👋
 
-### 💻 FullStack Web Developer | 17 years old | Tech Enthusiast 
+### 💻 FullStack Web Developer | 18 years old | Tech Enthusiast 
 
 I'm passionate about creating impactful web solutions 🚀. With **freelance** experience under my belt, I've sharpened my skills in web development, always staying updated with the latest trends and technologies. My focus is on building **scalable** and **efficient** applications that turn ideas into reality.
 
